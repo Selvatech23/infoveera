@@ -12,7 +12,7 @@ const Contact = () => {
             Ready to grow your business with smart data solutions? Reach out now and let's build something impactful!
           </p>
           <a
-            href="mailto:contact@infoveera.com"
+            href="mailto:infoveeraofficial@gmail.com"
             style={{
               display: 'inline-block',
               backgroundColor: '#2563eb',
