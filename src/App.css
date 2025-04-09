@@ -1,38 +1,52 @@
-.App {
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f9f9f9;
+  color: #222;
+}
+
+section {
+  padding: 80px 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+h1, h2 {
+  text-align: center;
+  color: #1e3a8a;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* About Section */
+.about {
+  padding: 80px 20px;
+  background: #e8f5e9; /* Light green background */
+  min-height: 100vh; /* Full screen height */
+  width: 100%; /* Full width */
+  border-radius: 0; /* Remove rounded edges for full coverage */
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.05); /* Optional soft inner shadow */
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  animation: slideInUp 1s ease-in-out;
 }
 
-.App-link {
-  color: #61dafb;
+.about h2 {
+  font-size: 2.5rem;
+  color: #00695c;
+  margin-bottom: 20px;
+  text-align: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.about p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
 }
