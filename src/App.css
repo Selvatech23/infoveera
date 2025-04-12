@@ -22,31 +22,3 @@ p {
   text-align: center;
 }
 
-/* About Section */
-.about {
-  padding: 80px 20px;
-  background: #e8f5e9; /* Light green background */
-  min-height: 100vh; /* Full screen height */
-  width: 100%; /* Full width */
-  border-radius: 0; /* Remove rounded edges for full coverage */
-  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.05); /* Optional soft inner shadow */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  animation: slideInUp 1s ease-in-out;
-}
-
-.about h2 {
-  font-size: 2.5rem;
-  color: #00695c;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-.about p {
-  font-size: 1.1rem;
-  line-height: 1.8;
-  text-align: center;
-  max-width: 800px;
-  margin: 0 auto;
-}
