@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/infoveera/static/css/main.31b5803b.css",
+    "main.css": "/infoveera/static/css/main.8bafbbe1.css",
     "main.js": "/infoveera/static/js/main.532c86d6.js",
     "static/js/453.54b36072.chunk.js": "/infoveera/static/js/453.54b36072.chunk.js",
     "static/media/finallogo.png": "/infoveera/static/media/finallogo.ba353ac5b288706be217.png",
     "index.html": "/infoveera/index.html",
-    "main.31b5803b.css.map": "/infoveera/static/css/main.31b5803b.css.map",
+    "main.8bafbbe1.css.map": "/infoveera/static/css/main.8bafbbe1.css.map",
     "main.532c86d6.js.map": "/infoveera/static/js/main.532c86d6.js.map",
     "453.54b36072.chunk.js.map": "/infoveera/static/js/453.54b36072.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31b5803b.css",
+    "static/css/main.8bafbbe1.css",
     "static/js/main.532c86d6.js"
   ]
 }
